@@ -1,4 +1,3 @@
-applescript
-===========
+# applescripts
 
-A collection of AppleScript scripts
+A collection of AppleScripts
